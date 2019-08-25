@@ -1,0 +1,38 @@
+/* .searchForm{
+    float: right;
+    border-radius: 4px;
+    width: 300px;
+    background-color: #c0c0c0
+} */
+
+ /* #filter{
+     border-radius: 4px;
+    width: 300px;
+    background-color: #c0c0c0 
+}  */
+
+.searchInput{
+    float: right;
+    border-radius: 4px;
+    width: 300px;
+    background-color: #c0c0c0; 
+    height: 25px;
+    margin-top: 2px;
+}
+
+.searchIcon{
+    float: right;
+    margin-left: 20px;;
+}
+
+.profileIcon{
+    float: right;
+    height: 35px;
+    margin-top: -25px !important;
+    border-radius: 50%;
+    width: 35px;
+}
+
+ .searchForm{
+    margin-right: 50px;
+} 
